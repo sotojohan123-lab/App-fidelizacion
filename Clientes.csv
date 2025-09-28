@@ -1,0 +1,9 @@
+ClienteID,Nombre,Cedula,Telefono,Correo,Ciudad,Segmento
+C001,Andrea Cantillo,1001234567,3001112233,andrea@mail.com,Barranquilla,Premium
+C002,Luis Torres,1007654321,3012223344,luis.torres@mail.com,Bogotá,Estándar
+C003,Mariana Gómez,1019876543,3023334455,,Medellín,Premium
+C004,Javier Rodríguez,1024567890,3204445566,javi.rod@mail.com,Cali,Básico
+C005,Sofía López,1031122334,3105556677,sofia.l@mail.com,Barranquilla,Estándar
+C006,Carlos Díaz,1049988776,3112223344,,Bogotá,Básico
+C007,Valentina Ruiz,1052233445,3123334455,valentina.r@mail.com,Cartagena,Premium
+C008,Mateo Fernández,1063344556,3134445566,mateo.f@mail.com,Bucaramanga,Estándar

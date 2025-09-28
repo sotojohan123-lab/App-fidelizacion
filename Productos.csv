@@ -1,0 +1,9 @@
+ProductoID,NombreProducto,Categoria,SubCategoria,PrecioUnitario
+P001,Carne de Res 500g,Carnes,Res,20000
+P002,Pollo Entero,Carnes,Pollo,18000
+P003,Shampoo X Marca,Cosméticos,Cabello,12000
+P004,Crema Corporal,Cosméticos,Cuidado Piel,15000
+P005,Arroz 1Kg,Abarrotes,Granos,5000
+P006,Leche 1L,Lácteos,Bebidas,4000
+P007,Jabón de Tocador,Aseo,Jabón,2500
+P008,Detergente 1Kg,Aseo,Limpieza,8000
